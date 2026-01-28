@@ -1,4 +1,4 @@
-# 🤖 Automação GUI - Sistema de Criação de Contatos
+# 🤖 Automação GUI - Sistema de Cadastro de Contatos
 
 ## 📋 Descrição da Automação
 
