@@ -1,4 +1,4 @@
-# 🤖 Automação GUI - Sistema de Cadastro de Contatos
+# 🤖 Automação GUI - Cadastro de Lead no CRM 
 
 ## 📋 Descrição da Automação
 
