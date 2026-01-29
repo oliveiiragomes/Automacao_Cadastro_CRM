@@ -227,16 +227,6 @@ AUTOMACAO_GUI/
 
 ---
 
-## 📞 Suporte
-
-Para dúvidas ou problemas:
-
-1. Verifique o arquivo `coordenadas.txt` para referência
-2. Consulte o diagrama em `Fluxograma_automacao.bpm`
-3. Execute o script de teste: `hub_test.py`
-
----
-
 ## 📄 Licença
 
 Projeto desenvolvido para automação local.
