@@ -1,0 +1,7 @@
+coordenada_novo = (682, 131)
+coordenada_novo_contato = (675,173)
+coordenada_nome = (2057, 380)
+coordenada_email = (2038, 295)
+coordenada_telefone = (2131, 718)
+coordenada_situacao = (2068, 882)
+coordenada_criar = (2051, 1033)
